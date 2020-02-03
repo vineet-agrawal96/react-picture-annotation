@@ -43,7 +43,7 @@
     "@storybook/addon-a11y": "^5.3.10",
     "@storybook/addon-actions": "^5.3.10",
     "@storybook/addon-info": "^5.3.10",
-    "@storybook/addon-links": "^5.2.3",
+    "@storybook/addon-links": "^5.3.10",
     "@storybook/addons": "^5.2.3",
     "@storybook/react": "^5.2.3",
     "@svgr/rollup": "^4.2.0",
