@@ -10,7 +10,7 @@
     "storybook": "start-storybook -p 6006 --debug-webpack --no-dll",
     "build-storybook": "build-storybook",
     "commit": "npx git-cz",
-    "precommit": "lint-staged",
+    "precommit": ["build"],
     "lib:publish": "npm run build && npm publish",
     "semantic-release": "semantic-release"
   },
