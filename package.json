@@ -82,7 +82,9 @@
     "typescript": "^3.5.1",
     "semantic-release": "^15.13.16"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@types/node": "^12.12.6"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
